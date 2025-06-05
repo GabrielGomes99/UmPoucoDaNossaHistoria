@@ -5,6 +5,7 @@ const nextConfig = {
     unoptimized: true,
   },
   basePath: process.env.NODE_ENV === 'production' ? '/UmPoucoDaNossaHistoria' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/UmPoucoDaNossaHistoria/' : '',
 }
 
 module.exports = nextConfig 
