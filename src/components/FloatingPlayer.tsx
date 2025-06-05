@@ -15,15 +15,15 @@ const dancingScript = Dancing_Script({
 });
 
 const songs = [
-  { title: "Marry You", file: "/music/marry_you.mp3", cover: "/music/covers/marry_you.png" },
-  { title: "My Universe", file: "/music/my_universe.mp3", cover: "/music/covers/my_universe.png" },
-  { title: "Ai, Amor", file: "/music/Ai_Amor.mp3", cover: "/music/covers/ai_amor.png" },
-  { title: "Velha Infância", file: "/music/velha_infancia.mp3", cover: "/music/covers/velha_infancia.png" },
-  { title: "I Was Never There", file: "/music/i_was_never_there.mp3", cover: "/music/covers/i_was_never_there.png" },
-  { title: "Samurai", file: "/music/Samurai.mp3", cover: "/music/covers/samurai.png" },
-  { title: "Linha do Equador", file: "/music/linha_do_equador.mp3", cover: "/music/covers/linha_do_equador.png" },
-  { title: "Chuva de Arooz", file: "/music/chuva.mp3", cover: "/music/covers/chuva.png" },
-  { title: "Eu Amo Você", file: "/music/amo.mp3", cover: "/music/covers/amo.png" },
+  { title: "Marry You", file: "/marry_you.mp3", cover: "/covers/marry_you.png" },
+  { title: "My Universe", file: "/my_universe.mp3", cover: "/covers/my_universe.png" },
+  { title: "Ai, Amor", file: "/ai_amor.mp3", cover: "/covers/ai_amor.png" },
+  { title: "Velha Infância", file: "/velha_infancia.mp3", cover: "/covers/velha_infancia.png" },
+  { title: "I Was Never There", file: "/i_was_never_there.mp3", cover: "/covers/i_was_never_there.png" },
+  { title: "Samurai", file: "/samurai.mp3", cover: "/covers/samurai.png" },
+  { title: "Linha do Equador", file: "/linha_do_equador.mp3", cover: "/covers/linha_do_equador.png" },
+  { title: "Chuva de Arroz", file: "/chuva.mp3", cover: "/covers/chuva.png" },
+  { title: "Eu Amo Você", file: "/amo.mp3", cover: "/covers/amo.png" },
 ];
 
 const FloatingPlayer = () => {
