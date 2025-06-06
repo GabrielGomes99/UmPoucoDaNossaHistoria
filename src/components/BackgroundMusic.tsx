@@ -12,7 +12,7 @@ export default function BackgroundMusic() {
   useEffect(() => {
     // Substitua 'music.mp3' pelo nome do seu arquivo de música
     const newSound = new Howl({
-      src: ['/music/music.mp3'],
+      src: ['/UmPoucoDaNossaHistoria/music/music.mp3'],
       loop: true,
       volume: 0.5,
     })
