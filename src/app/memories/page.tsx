@@ -11,35 +11,35 @@ const memories = [
     title: 'Nosso Primeiro Encontro',
     description: 'O dia em que tudo começou...',
     type: 'image',
-    file: '/memories/primeiro_encontro.jpg', // Para imagens, use a propriedade file
+    file: '/UmPoucoDaNossaHistoria/memories/primeiro_encontro.jpg', // Para imagens, use a propriedade file
   },
   {
     id: 2,
     title: 'Primeira Viagem Juntos para o Rio de Janeiro',
     description: 'Nossa primeira viagem juntos e Show do The Weeknd...',
     type: 'image',
-    file: '/memories/viagem_rj.jpg',
+    file: '/UmPoucoDaNossaHistoria/memories/viagem_rj.jpg',
   },
   {
     id: 3,
     title: 'Primeiro Show',
     description: 'Show do The Weeknd, Momento Inesquecível...',
     type: 'video',
-    file: '/memories/viagem_rj.mp4',
+    file: '/UmPoucoDaNossaHistoria/memories/viagem_rj.mp4',
   },
   {
     id: 4,
     title: 'Primeiro Dia dos Namorados',
     description: 'Nosso primeiro dia de namorados...',
     type: 'image',
-    file: '/memories/primeiro_dia_dos_namorados.jpg',
+    file: '/UmPoucoDaNossaHistoria/memories/primeiro_dia_dos_namorados.jpg',
   },
   {
     id: 5,
     title: 'Show do Bruno Mars',
     description: 'Show Inesquecível do Bruno Mars...',
     type: 'image',
-    file: '/memories/show_bruno_mars.jpg',
+    file: '/UmPoucoDaNossaHistoria/memories/show_bruno_mars.jpg',
   },
   // Exemplo de como adicionar um vídeo:
    {
@@ -47,7 +47,7 @@ const memories = [
     title: 'Vídeo Especial de um Momento Inesquecível',
     description: 'Um momento inesquecível em vídeo da Nossa Exposição do Vangogh...',
     type: 'video',
-    file: '/memories/vangogh.mp4',
+    file: '/UmPoucoDaNossaHistoria/memories/vangogh.mp4',
   },
   // Exemplo de como adicionar um áudio:
   {
@@ -55,7 +55,7 @@ const memories = [
     title: 'Viagem São Paulo',
     description: 'Nossa Viagem Incrível para São Paulo...',
     type: 'image',
-    file: '/memories/viagem_sp.jpg',
+    file: '/UmPoucoDaNossaHistoria/memories/viagem_sp.jpg',
   },
   // Adicione mais memórias (imagens, vídeos, áudios) conforme necessário
 ]

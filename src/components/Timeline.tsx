@@ -36,7 +36,7 @@ const timelineEvents: TimelineEvent[] = [
     icon: FaHeart,
     details: {
       additionalText: 'Lembro perfeitamente do seu sorriso naquele dia...',
-      images: ['/memories/primeiro_encontro.jpg'],
+      images: ['/UmPoucoDaNossaHistoria/memories/primeiro_encontro.jpg'],
     },
   },
   {
@@ -47,7 +47,7 @@ const timelineEvents: TimelineEvent[] = [
     icon: FaRing,
     details: {
       additionalText: 'Lembro perfeitamente do seu sorriso naquele dia e da nossa noite...',
-      images: ['/memories/pedido.jpg','/memories/pedido1.jpg'],
+      images: ['/UmPoucoDaNossaHistoria/memories/pedido.jpg','/UmPoucoDaNossaHistoria/memories/pedido1.jpg'],
     },
   },
   {
@@ -58,7 +58,7 @@ const timelineEvents: TimelineEvent[] = [
     icon: FaHeart,
     details: {
       additionalText: 'Que dia perfeito e inesquecível que tivemos e exeperiências novas.',
-      images: ['/memories/primeiro_dia_dos_namorados.jpg','/memories/2.jpg'],
+      images: ['/UmPoucoDaNossaHistoria/memories/primeiro_dia_dos_namorados.jpg','/UmPoucoDaNossaHistoria/memories/2.jpg'],
     },
   },
   {
@@ -69,8 +69,8 @@ const timelineEvents: TimelineEvent[] = [
     icon: FaPalette,
     details: {
       additionalText: 'Foi um dia especial, cheio de descobertas e sorrisos ao seu lado.',
-      images: ['/memories/vangogh.jpg'],
-      videos: ['/memories/vangogh.mp4'],
+      images: ['/UmPoucoDaNossaHistoria/memories/vangogh.jpg'],
+      videos: ['/UmPoucoDaNossaHistoria/memories/vangogh.mp4'],
     },
   },
   {
@@ -80,7 +80,7 @@ const timelineEvents: TimelineEvent[] = [
     description: 'Celebrando Um Novo Ano Com a Mulher da Minha Vida...',
     icon: FaHeart,
     details: {
-      images: ['/memories/anonovo.jpg', '/memories/anonovo1.jpg'],
+      images: ['/UmPoucoDaNossaHistoria/memories/anonovo.jpg', '/UmPoucoDaNossaHistoria/memories/anonovo1.jpg'],
     },
   },
   {
@@ -91,7 +91,7 @@ const timelineEvents: TimelineEvent[] = [
     icon: FaHeart,
     details: {
       additionalText: 'Que noite maravilhosa e gostosa que tivemos.',
-      images: ['/memories/1ano.jpg', '/memories/1ano1.jpg'],
+      images: ['/UmPoucoDaNossaHistoria/memories/1ano.jpg', '/UmPoucoDaNossaHistoria/memories/1ano1.jpg'],
     },
   },
   {
@@ -102,8 +102,8 @@ const timelineEvents: TimelineEvent[] = [
     icon: FaPlane,
     details: {
       additionalText: 'Que viagem maravilhosa e gostosa que tivemos.',
-      images: ['/memories/viagem_rj.jpg'],
-      videos: ['/memories/viagem_rj.mp4'],
+      images: ['/UmPoucoDaNossaHistoria/memories/viagem_rj.jpg'],
+      videos: ['/UmPoucoDaNossaHistoria/memories/viagem_rj.mp4'],
     },
   },
   {
@@ -113,7 +113,7 @@ const timelineEvents: TimelineEvent[] = [
     description: 'Nosso Primeiro Natal Juntos não tenho palavras...',
     icon: FaTree,
     details: {
-      images: ['/memories/natal.jpg', '/memories/natal1.jpg'],
+      images: ['/UmPoucoDaNossaHistoria/memories/natal.jpg', '/UmPoucoDaNossaHistoria/memories/natal1.jpg'],
     },
   },
   {
@@ -124,7 +124,7 @@ const timelineEvents: TimelineEvent[] = [
     icon: FaHeart,
     details: {
       additionalText: 'Dois anos celebrado de uma maneira maravilhosa.',
-      images: ['/memories/2ano.jpg', '/memories/2ano2.jpg'],
+      images: ['/UmPoucoDaNossaHistoria/memories/2ano.jpg', '/UmPoucoDaNossaHistoria/memories/2ano2.jpg'],
     },
   },
   {
@@ -135,8 +135,8 @@ const timelineEvents: TimelineEvent[] = [
     icon: FaMusic,
     details: {
       additionalText: 'Que melhor maneira de comemorar nosso aniversário de namoro',
-      images: ['/memories/djavan.jpg'],
-      videos: ['/memories/djavan.mp4'],
+      images: ['/UmPoucoDaNossaHistoria/memories/djavan.jpg'],
+      videos: ['/UmPoucoDaNossaHistoria/memories/djavan.mp4'],
     },
   },
   {
@@ -146,7 +146,7 @@ const timelineEvents: TimelineEvent[] = [
     description: 'Nossa segunda viagem juntos e mais uma vez o show do The Weeknd...',
     icon: FaPlane,
     details: {
-      images: ['/memories/viagem_sp1.jpg', '/memories/viagem_sp.jpg'],
+      images: ['/UmPoucoDaNossaHistoria/memories/viagem_sp1.jpg', '/UmPoucoDaNossaHistoria/memories/viagem_sp.jpg'],
     },
   },
   {
@@ -156,7 +156,7 @@ const timelineEvents: TimelineEvent[] = [
     description: 'Que noite gostosa!!...',
     icon: FaMusic,
     details: {
-      images: ['/memories/show_bruno_mars.jpg', '/memories/show_bruno_mars1.jpg'],
+      images: ['/UmPoucoDaNossaHistoria/memories/show_bruno_mars.jpg', '/UmPoucoDaNossaHistoria/memories/show_bruno_mars1.jpg'],
     },
   },
   {
@@ -166,7 +166,7 @@ const timelineEvents: TimelineEvent[] = [
     description: 'Nosso Segundo Natal Juntos que maravilhoso...',
     icon: FaTree,
     details: {
-      images: ['/memories/natal.jpg', '/memories/natal1.jpg'],
+      images: ['/UmPoucoDaNossaHistoria/memories/natal.jpg', '/UmPoucoDaNossaHistoria/memories/natal1.jpg'],
     },
   },
   {
